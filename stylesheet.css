@@ -1,0 +1,21 @@
+body{background-color:black;color:FE2EF7;}
+
+
+nav { background-color:black;color:FE2EF7; position:absolute;
+    left:0; top:92px; bottom: 0;
+    width: 178px; display: inline-block}
+
+header{ background-color:black;color:FE2EF7;
+        position:absolute;
+        left:0; right:0;
+        height: 92px;
+    }
+
+    img{
+        width: 40%;  position: absolute;
+        left:178px; top:92px;
+    }
+
+    p{background-color:black;color:FE2EF7; position: absolute; left: 178px; top: 400px; right: 600px;}
+
+footer{background-color:CECEF6;color:FE2EF7; position:absolute; top: 500px;right: 600px;}
